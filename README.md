@@ -11,3 +11,5 @@ Key Features:
   * Expandable: Easily adaptable for further improvements or integration with sensors.
 
 This project showcases a mix of electronics, programming, and mechanical design, aimed at enthusiasts interested in robotics and wireless control systems.
+
+![IMG_AEC4E7406A05-1](https://github.com/user-attachments/assets/4d161c28-2416-44b3-af5e-19a8da39c61e)

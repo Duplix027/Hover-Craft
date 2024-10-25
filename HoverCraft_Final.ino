@@ -1,4 +1,4 @@
-//http://192.168.0.44/ (WebServer)
+
 
 #include <WiFiNINA.h>
 #include <Servo.h>
